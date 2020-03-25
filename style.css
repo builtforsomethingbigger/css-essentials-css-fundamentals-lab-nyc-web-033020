@@ -11,6 +11,6 @@ h1 {
 img{
   align-content: center;
 }
-nav li{
+nav:a{
   background: grey;
 }
