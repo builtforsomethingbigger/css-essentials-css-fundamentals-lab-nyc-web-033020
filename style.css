@@ -3,3 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+}
