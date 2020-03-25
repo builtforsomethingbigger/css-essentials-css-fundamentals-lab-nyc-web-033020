@@ -12,6 +12,6 @@ img{
   align-content: center;
 }
 nav a{
-  padding: 10px;
+  padding: 0 10px 0 10px;
   background: grey;
 }
