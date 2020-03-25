@@ -8,6 +8,9 @@ h1 {
   font-size: 18px;
   font-weight: bold;
 }
+img{
+  align: center;
+}
 .container{
   max-width: 800px;
   margin: auto;
